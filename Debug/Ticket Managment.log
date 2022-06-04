@@ -1,0 +1,7 @@
+﻿  Source.cpp
+c:\users\mian talha\source\repos\ticket managment\ticket managment\source.cpp(123): warning C4102: 'end': unreferenced label
+c:\users\mian talha\source\repos\ticket managment\ticket managment\source.cpp(165): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+c:\users\mian talha\source\repos\ticket managment\ticket managment\source.cpp(240): warning C4244: 'initializing': conversion from 'std::streamoff' to 'int', possible loss of data
+c:\users\mian talha\source\repos\ticket managment\ticket managment\source.cpp(272): warning C4715: 'login_s': not all control paths return a value
+c:\users\mian talha\source\repos\ticket managment\ticket managment\person.h(59): warning C4715: 'person::search_': not all control paths return a value
+  Ticket Managment.vcxproj -> C:\Users\Mian Talha\source\repos\Ticket Managment\Debug\Ticket Managment.exe
